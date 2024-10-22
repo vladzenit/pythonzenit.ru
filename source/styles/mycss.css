@@ -1,0 +1,44 @@
+@import url(https://fonts.googleapis.com/css?family=Roboto&display=swap);
+
+body{
+    font-family: Michroma, serif;
+    background: linear-gradient(180deg, #271c1c 0%, #ffffff 100%);
+}
+.nav-link{
+    color: rgb(11, 225, 11);
+
+
+}
+.nav-link.active{
+    color: rgb(13, 211, 63);
+}
+.xer{
+    width:40px
+}
+button.navbar-toggler-icon{
+    color: rgb(19, 18, 18);
+}
+
+.id22{
+    background-color: black;
+}
+.navbar {
+    background-color: black;
+}
+.col-lg-4{
+    box-shadow: 5px 5px 10px 1px #000000;
+    
+}
+.col-lg-12{
+    color: aqua;
+    background: linear-gradient(180deg, #de1717 0%, #170a91 100%);
+}
+.card{
+    background-color: #de1717;
+}
+.card a{
+     color: #000000;
+}
+.rrr{
+    width: 40px;
+}
