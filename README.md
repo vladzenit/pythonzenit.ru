@@ -1,1 +1,1 @@
-# pythonzenit.ru
+# pythonzenitstudio.github.io
